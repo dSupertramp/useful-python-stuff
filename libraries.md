@@ -21,3 +21,7 @@
 - ## Jellyfish
     ##### https://github.com/jamesturk/jellyfish
     ###### Library for approximate and phonetic matching of strings
+
+- ## Rasterio
+    ##### https://rasterio.readthedocs.io/en/stable/
+    ###### Manipulate geospatial raster data
