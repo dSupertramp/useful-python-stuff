@@ -31,3 +31,7 @@
 - ## `Rasterio`
     ##### https://rasterio.readthedocs.io/en/stable/
     ###### Manipulate geospatial raster data
+
+- ## `Ruff`
+    ##### https://github.com/charliermarsh/ruff
+    ###### A nice linter
