@@ -32,10 +32,17 @@
     ##### https://rasterio.readthedocs.io/en/stable/
     ###### Manipulate geospatial raster data
 
+
 - ## `Ruff`
     ##### https://github.com/charliermarsh/ruff
     ###### A nice linter
 
+
 - ## `Flet`
     ##### https://flet.dev/
     ###### Build Flutter apps using Python
+
+
+- ## `NiceGUI`
+    ##### https://nicegui.io/
+    ###### Create UI with Python
