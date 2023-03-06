@@ -35,3 +35,7 @@
 - ## `Ruff`
     ##### https://github.com/charliermarsh/ruff
     ###### A nice linter
+
+- ## `Flet`
+    ##### https://flet.dev/
+    ###### Build Flutter apps using Python
