@@ -5,3 +5,11 @@
 - ## PsychoPy
     ##### https://www.psychopy.org/
     ###### Free cross-platform package allowing you to run a wide range of experiments in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics etc.) 
+
+- ## Optuna
+    ##### https://optuna.org/
+    ###### Framework for hyperparameter optimization
+
+- ## Gradio
+    ##### https://gradio.app/
+    ###### Add UI to ML models
