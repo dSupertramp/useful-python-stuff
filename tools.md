@@ -16,3 +16,10 @@
 - ## `Gradio`
     ##### https://gradio.app/
     ###### Add UI to ML models
+    
+
+
+- ## `MONAI`
+    ##### [https://gradio.app/](https://monai.io/)
+    ###### PyTorch framework used for accelerating research and clinical collaboration in Medical Imaging
+    
