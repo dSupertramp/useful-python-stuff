@@ -51,3 +51,8 @@
 - ## `ttkbootstrap`
     ##### https://ttkbootstrap.readthedocs.io/en/latest/
     ###### Use Bootstrap with TKinter!
+
+
+- ## `loguru`
+    ##### https://ttkbootstrap.readthedocs.io/en/latest/](https://github.com/Delgan/loguru
+    ###### Python logging in easy mode
