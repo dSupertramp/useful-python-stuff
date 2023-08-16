@@ -54,5 +54,5 @@
 
 
 - ## `loguru`
-    ##### https://ttkbootstrap.readthedocs.io/en/latest/](https://github.com/Delgan/loguru
+    ##### (https://github.com/Delgan/loguru
     ###### Python logging in easy mode
